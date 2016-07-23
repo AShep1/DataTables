@@ -1,0 +1,5 @@
+C:\github\DataTables\DataTables\DataTables\DataTables\bin\Debug\DataTables.dll
+C:\github\DataTables\DataTables\DataTables\DataTables\bin\Debug\DataTables.pdb
+C:\github\DataTables\DataTables\DataTables\DataTables\obj\Debug\DataTables.csprojResolveAssemblyReference.cache
+C:\github\DataTables\DataTables\DataTables\DataTables\obj\Debug\DataTables.dll
+C:\github\DataTables\DataTables\DataTables\DataTables\obj\Debug\DataTables.pdb
